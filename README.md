@@ -6,9 +6,8 @@
 
 - PHPSTORM
 - MAMP: MySQL(php MyAdmin)
-- symfony 6.2 
-- PHP 8.2
-- AJAX
+- symfony 6.1 
+- PHP 8.1
 - Bootstrap
 
 >**_Merci beaucoup et à bientôt !_**
